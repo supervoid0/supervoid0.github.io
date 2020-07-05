@@ -151,7 +151,8 @@ html {
   body#bg-img {
     background: url(../img/programmer.jpg);
     background-attachment: fixed;
-    background-size: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
     z-index: -3;
     
     }  
