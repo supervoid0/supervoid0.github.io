@@ -128,8 +128,6 @@
   background-color: green;
   margin-left: 40px; }
 
-
-
 div {
   color: white; }
 
@@ -162,8 +160,6 @@ html {
     z-index: -1;
     position: absolute;
     height: 100%; }
- 
-
 h1,
 h2,
 h3 {
@@ -331,7 +327,6 @@ main {
     .menu-branding img {
       width: 170px;
       height: 170px; }
- 
   .about-info {
     grid-template-areas: 'bioimage' 'bio';
     grid-template-columns: 1fr; }
