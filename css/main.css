@@ -147,7 +147,8 @@ html {
     line-height: 1.5; 
   }
   body#bg-img {
-    background: url(../img/programmer.jpg);
+    background-color: #2b4162;
+    background-image: linear-gradient(315deg, #2b4162 0%, #12100e 74%); 
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
@@ -172,7 +173,8 @@ h3 {
   h1.sm-heading,
   h2.sm-heading,
   h3.sm-heading {
-    margin-bottom: 2rem;
+    margin-top: 20px;
+    margin-bottom: 50px;
     padding: 0.2rem 1rem;
     font-size: 1.1rem;
     text-align: center;
@@ -226,6 +228,7 @@ main {
     border-radius: 50%;
     border: #3E99ED 3px solid; }
   .about-info .bio {
+    margin-top: 20px;
     grid-area: bio;
     font-size: 1.5rem; }
   
